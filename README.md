@@ -16,15 +16,8 @@ Each script comes with its own usage instructions and detailed comments. Be sure
 
 ## :handshake: Contributing
 
-We appreciate contributions! If you have a script that you think would be a valuable addition to this repository, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b my-new-script`)
-3. Commit your changes (`git commit -m 'Add my new script'`)
-4. Push to the branch (`git push origin my-new-script`)
-5. Open a Pull Request
-
-We will review your submission and provide feedback as needed. Thank you for your contribution!
+We appreciate contributions! If you have a script that you think would be a valuable addition to this repository, please feel free to open a pull request!
+We will review your submission and provide feedback as needed.
 
 ## :page_with_curl: License
 
