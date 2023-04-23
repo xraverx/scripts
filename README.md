@@ -7,7 +7,7 @@ This repository contains a collection of personal scripts that I have created fo
 To use these scripts, simply clone this repository onto your local machine:
 
 ```
-git clone https://github/xraverx/scripts.git
+git clone https://github.com/xraverx/scripts.git
 ```
 
 ## Usage
