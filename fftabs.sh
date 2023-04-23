@@ -11,7 +11,7 @@ fi
 
 # Default URLs
 default_urls=(
-  "https://weather.com/weather/today/l/70809"
+  "https://weather.com/weather/today"
   "https://keep.google.com"
   "https://calendar.google.com"
   "https://news.google.com"
