@@ -11,18 +11,9 @@ fi
 
 # Default URLs
 default_urls=(
-  "https://weather.com/weather/today"
-  "https://keep.google.com"
-  "https://calendar.google.com"
-  "https://news.google.com"
-  "https://drive.google.com"
-  "https://music.youtube.com"
-  "https://youtube.com"
-  "https://chat.openai.com/chat"
-  "https://chess.com"
-  "https://reddit.com"
   "https://github.com"
   "https://wiki.archlinux.org"
+  # Add more links here
 )
 
 # If there are command-line arguments, use them as URLs
